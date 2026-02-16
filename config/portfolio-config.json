@@ -1,0 +1,110 @@
+{
+	"pictures" :
+	[
+		{
+			"img" 			: "Lumineo1.jpeg",
+			"title" 		: "Renderizado con Lumion",
+			"category" 		: "Lumion",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "Lumineo2.jpeg",
+			"title" 		: "Renderizado con Lumion",
+			"category" 		: "Lumion",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "Lumineo3.jpeg",
+			"title" 		: "Renderizado con Lumion",
+			"category" 		: "Lumion",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "Lumineo4.jpeg",
+			"title" 		: "Renderizado con Lumion",
+			"category" 		: "Lumion",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "MasterBIM1.jpeg",
+			"title" 		: "Master BIM Expert",
+			"category" 		: "proyectos",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "ResidenciaVacacionalCabrera1.png",
+			"title" 		: "Residencia Vacacional Cabrera",
+			"category" 		: "Revit",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "ResidenciaVacacionalCabrera2.png",
+			"title" 		: "Residencia Vacacional Cabrera",
+			"category" 		: "Revit",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "ResidenciaVacacionalCabrera3.png",
+			"title" 		: "Residencia Vacacional Cabrera",
+			"category" 		: "Revit",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "ResidenciaVacacionalCabrera4.png",
+			"title" 		: "Residencia Vacacional Cabrera",
+			"category" 		: "Revit",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "Modelado3dRestaurante1.png",
+			"title" 		: "Modelado 3D Restaurante",
+			"category" 		: "proyectos",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "ApartaEstudiosSanIsidro1.jpeg",
+			"title" 		: "Apartamento San Isidro",
+			"category" 		: "Revit",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "ApartaEstudiosSanIsidro2.jpeg",
+			"title" 		: "Apartamento San Isidro",
+			"category" 		: "Revit",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "ApartaEstudiosSanIsidro3.jpeg",
+			"title" 		: "Apartamento San Isidro",
+			"category" 		: "Revit",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "Modelogenerico3DWarehouse1.jpg",
+			"title" 		: "Modelo 3D Warehouse",
+			"category" 		: "D5 Render",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		},
+		{
+			"img" 			: "Modelogenerico3DWarehouse2.jpg",
+			"title" 		: "Modelo 3D Warehouse",
+			"category" 		: "D5 Render",
+			"data" 			: "proyectos",
+			"filter" 		: "filter-proyectos"
+		}
+	]
+}
