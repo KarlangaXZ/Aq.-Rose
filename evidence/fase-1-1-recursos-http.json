@@ -1,0 +1,138 @@
+[
+  {
+    "file": "index.html",
+    "status": 200
+  },
+  {
+    "file": "config/portfolio-config.json",
+    "status": 200
+  },
+  {
+    "file": "img/favicon.ico",
+    "status": 200
+  },
+  {
+    "file": "img/favicon.png",
+    "status": 200
+  },
+  {
+    "file": "lib/title-fonts/BERNHC.TTF",
+    "status": 200
+  },
+  {
+    "file": "css/style.css",
+    "status": 200
+  },
+  {
+    "file": "js/main.js",
+    "status": 200
+  },
+  {
+    "file": "js/portfolio.js",
+    "status": 200
+  },
+  {
+    "file": "img/optimized/hero-1920.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/optimized/vision-800.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/ResidenciaVacacionalCabrera1.png",
+    "status": 200
+  },
+  {
+    "file": "img/optimized/project-1.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/ResidenciaVacacionalCabrera2.png",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/ResidenciaVacacionalCabrera3.png",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/ResidenciaVacacionalCabrera4.png",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/Lumineo1.jpeg",
+    "status": 200
+  },
+  {
+    "file": "img/optimized/project-2.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/Lumineo2.jpeg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/Lumineo3.jpeg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/Lumineo4.jpeg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/ApartaEstudiosSanIsidro1.jpeg",
+    "status": 200
+  },
+  {
+    "file": "img/optimized/project-3.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/ApartaEstudiosSanIsidro2.jpeg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/ApartaEstudiosSanIsidro3.jpeg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/Modelado3dRestaurante1.png",
+    "status": 200
+  },
+  {
+    "file": "img/optimized/project-4.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/Modelogenerico3DWarehouse1.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/optimized/project-5.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/Modelogenerico3DWarehouse2.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/portfolio/MasterBIM1.jpeg",
+    "status": 200
+  },
+  {
+    "file": "img/optimized/project-6.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/optimized/architecture-4-800.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/optimized/architecture-6-800.jpg",
+    "status": 200
+  },
+  {
+    "file": "img/optimized/hero-800.jpg",
+    "status": 200
+  }
+]

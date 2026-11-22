@@ -112,7 +112,9 @@ async function refreshPortfolio() {
       const image = cover.querySelector('img');
       image.alt = `${title}, vista arquitectónica`;
       if (!unchangedCover) {
+        project.classList.remove('project--compact', 'project--sheet');
         image.src = imagePath;
+        image.style.removeProperty('--image-ratio');
         image.removeAttribute('width');
         image.removeAttribute('height');
       }

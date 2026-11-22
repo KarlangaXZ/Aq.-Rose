@@ -397,7 +397,7 @@ figcaption {
 }
 .project.project--compact .project-cover img,
 .project.project--sheet .project-cover img {
-  aspect-ratio: auto;
+  aspect-ratio: var(--image-ratio, 1.4);
   object-fit: contain;
 }
 .project--compact .project-info {
@@ -408,6 +408,25 @@ figcaption {
 .project--compact .project-description,
 .project--compact .project-views {
   grid-column: 1;
+}
+.project.project--sheet {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 8%;
+  align-items: center;
+}
+.project--sheet .project-cover {
+  grid-column: 1;
+  grid-row: 1 / 4;
+}
+.project--sheet .project-info {
+  flex-direction: column;
+}
+.project--sheet .project-info,
+.project--sheet .project-description,
+.project--sheet .project-views {
+  grid-column: 2;
 }
 .project-cover:hover img {
   transform: scale(1.025);
@@ -808,7 +827,8 @@ dialog figcaption {
     grid-column: auto;
     margin-top: 0;
   }
-  .project.project--compact {
+  .project.project--compact,
+  .project.project--sheet {
     display: block;
     padding-top: 0;
     border-top: 0;
@@ -818,7 +838,7 @@ dialog figcaption {
   }
   .project.project--compact .project-cover img,
   .project.project--sheet .project-cover img {
-    aspect-ratio: auto;
+    aspect-ratio: var(--image-ratio, 1.4);
   }
   .project-info h3 {
     font-size: 1.8rem;
