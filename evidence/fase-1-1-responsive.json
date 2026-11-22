@@ -1,0 +1,22 @@
+[
+  {
+    "horizontalOverflow": false,
+    "pageWidth": 305,
+    "viewport": 320
+  },
+  {
+    "horizontalOverflow": false,
+    "pageWidth": 375,
+    "viewport": 390
+  },
+  {
+    "horizontalOverflow": false,
+    "pageWidth": 753,
+    "viewport": 768
+  },
+  {
+    "horizontalOverflow": false,
+    "pageWidth": 1425,
+    "viewport": 1440
+  }
+]
