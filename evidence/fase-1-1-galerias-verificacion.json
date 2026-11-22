@@ -1,0 +1,92 @@
+[
+  {
+    "display": 409,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/ResidenciaVacacionalCabrera1.png",
+    "width": 409
+  },
+  {
+    "display": 409,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/ResidenciaVacacionalCabrera2.png",
+    "width": 409
+  },
+  {
+    "display": 419,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/ResidenciaVacacionalCabrera3.png",
+    "width": 419
+  },
+  {
+    "display": 409,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/ResidenciaVacacionalCabrera4.png",
+    "width": 409
+  },
+  {
+    "display": 1052,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/Lumineo1.jpeg",
+    "width": 1280
+  },
+  {
+    "display": 1052,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/Lumineo2.jpeg",
+    "width": 1280
+  },
+  {
+    "display": 1052,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/Lumineo3.jpeg",
+    "width": 1280
+  },
+  {
+    "display": 1052,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/Lumineo4.jpeg",
+    "width": 1280
+  },
+  {
+    "display": 742,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/ApartaEstudiosSanIsidro1.jpeg",
+    "width": 742
+  },
+  {
+    "display": 764,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/ApartaEstudiosSanIsidro2.jpeg",
+    "width": 764
+  },
+  {
+    "display": 556,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/ApartaEstudiosSanIsidro3.jpeg",
+    "width": 556
+  },
+  {
+    "display": 576,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/Modelado3dRestaurante1.png",
+    "width": 665
+  },
+  {
+    "display": 1052,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/Modelogenerico3DWarehouse1.jpg",
+    "width": 1177
+  },
+  {
+    "display": 1052,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/Modelogenerico3DWarehouse2.jpg",
+    "width": 1177
+  },
+  {
+    "display": 877,
+    "loaded": true,
+    "src": "http://127.0.0.1:4174/img/portfolio/MasterBIM1.jpeg",
+    "width": 1206
+  }
+]
